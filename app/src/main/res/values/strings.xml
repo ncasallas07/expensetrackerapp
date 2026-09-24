@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expense Tracker Full</string>
+    <string name="add_expense">Agregar movimiento</string>
+    <string name="stats">Estadísticas</string>
+    <string name="income">Ingresos</string>
+    <string name="expense">Gastos</string>
+    <string name="balance">Balance</string>
+</resources>
